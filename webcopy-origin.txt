@@ -1,0 +1,832 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/2.0.2_easybcd_2.0.2.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\2.0.2_easybcd_2.0.2.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/3.5.9_Paint.NET.3.5.9.Install.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\3.5.9_Paint.NET.3.5.9.Install.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/audacity-win-2.0.3.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\audacity-win-2.0.3.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/cpu-z-1-73-0.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\cpu-z-1-73-0.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/k-lite-codec-pack-9-75-full-K-Lite_Codec_Pack_975_Full.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\k-lite-codec-pack-9-75-full-K-Lite_Codec_Pack_975_Full.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/notepad-6-3-npp.6.3.Installer.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\notepad-6-3-npp.6.3.Installer.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/opera-12-14-Opera_1214_int_Setup.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\opera-12-14-Opera_1214_int_Setup.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/revosetup_194.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\revosetup_194.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/tcm801x32_64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\tcm801x32_64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/utorrent_2.2.1.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\utorrent_2.2.1.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/oldsoft/WinRAR-5-50-beta-1-x86.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\oldsoft\WinRAR-5-50-beta-1-x86.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2005 32.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2005 32.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2005 64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2005 64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2008 32.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2008 32.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2008 64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2008 64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2010 32.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2010 32.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2010 64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2010 64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2012 32.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2012 32.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2012 64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2012 64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2015-2022 64.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2015-2022 64.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/2015-2022 86.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\2015-2022 86.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/CCleaner_v5.90.9443.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\CCleaner_v5.90.9443.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/driver-hub-install__28.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\driver-hub-install__28.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/dxwebsetup.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\dxwebsetup.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/EasyBCD_2.4.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\EasyBCD_2.4.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/NDP46-KB3045560-Web.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\NDP46-KB3045560-Web.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/ndp472-kb4054531-web.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\ndp472-kb4054531-web.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/ndp48-web.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\ndp48-web.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/ONE.rar
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\ONE.rar
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/Recuva_v1.53.0.2078.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\Recuva_v1.53.0.2078.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/StartAllBack-3.5.0.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\StartAllBack-3.5.0.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/StartupSoundChanger.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\StartupSoundChanger.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/Update_Root_Certificates_v1.6.zip
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\Update_Root_Certificates_v1.6.zip
+Content Type: application/zip
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/Windows 7 Центр обновлений.exe
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\Windows 7 Центр обновлений.exe
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/soft/Windows 8.0 Центр обновлений.msu
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\soft\Windows 8.0 Центр обновлений.msu
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/AdderlyOS Alisa V2.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\AdderlyOS Alisa V2.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/counter-strike-condition-zero-deleted-scenes.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\counter-strike-condition-zero-deleted-scenes.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/CSS.exe.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\CSS.exe.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/Geometry_Dash_v2.112.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\Geometry_Dash_v2.112.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/Grand-Theft-Auto-5-by-Igruha.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\Grand-Theft-Auto-5-by-Igruha.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/Grand-Theft-Auto-Vice-City-by-Igruha.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\Grand-Theft-Auto-Vice-City-by-Igruha.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/need_for_speed_most_wanted.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\need_for_speed_most_wanted.torrent
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/FineWorkCompany/sborkiadderly.github.io/gh-pages/torrents/Watch-Dogs-1.06.329-16-DLC-RePack-ot-xatab.torrent
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\FineWorkCompany\sborkiadderly.github.io\gh-pages\torrents\Watch-Dogs-1.06.329-16-DLC-RePack-ot-xatab.torrent
+Content Type: application/octet-stream
+
+Uri: https://sborkiadderly.tk/
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\index.htm
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Библиотека-Образов.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Библиотека-Образов.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Библиотека-Образов.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Библиотека-Образов.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Как-обойти-проверку-Windows-11.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Как-обойти-проверку-Windows-11.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Как-обойти-проверку-Windows-11.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Как-обойти-проверку-Windows-11.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Ключи-от-Аддерли.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Ключи-от-Аддерли.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Ключи-от-Аддерли.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Ключи-от-Аддерли.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Обновления-для-Windows.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Обновления-для-Windows.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Обновления-для-Windows.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Обновления-для-Windows.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Оригинальные-Windows.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Оригинальные-Windows.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Оригинальные-Windows.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Оригинальные-Windows.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Сборки-от-Аддерли.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Сборки-от-Аддерли.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Сборки-от-Аддерли.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Сборки-от-Аддерли.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Софт-от-Аддерли.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Софт-от-Аддерли.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Софт-от-Аддерли.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Софт-от-Аддерли.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Старые-версии-Windows.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Старые-версии-Windows.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Старые-версии-Windows.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Старые-версии-Windows.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/СтарыйСофт-для-Windows-XPVista.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\СтарыйСофт-для-Windows-XPVista.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/СтарыйСофт-для-Windows-XPVista.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\СтарыйСофт-для-Windows-XPVista.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/images/1384060.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\1384060.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-14130414.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-14130414.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-14214127.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-14214127.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-14214424.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-14214424.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-15152355.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-15152355.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-15180806.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-15180806.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-15211852.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-15211852.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2022-08-15212113.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2022-08-15212113.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/2111646.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\2111646.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/588.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\588.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/590.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\590.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/592.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\592.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/594.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\594.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/595.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\595.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/background.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\background.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/favicon.ico
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://sborkiadderly.tk/images/img0.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img0.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img10.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img10.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img13.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img13.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img20.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img20.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img23.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img23.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img28.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img28.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img3.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/img4.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/oldps.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\oldps.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/photo_2022-09-13_13-48-19.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\photo_2022-09-13_13-48-19.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/photo_2022-09-13_13-49-04.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\photo_2022-09-13_13-49-04.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/windows-10-original-1366x768.jpg
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\windows-10-original-1366x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sborkiadderly.tk/images/Windows101607V2byAdderly-2022-08-19-22-05-30.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows101607V2byAdderly-2022-08-19-22-05-30.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows101607V2byAdderly-2022-08-19-22-06-49.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows101607V2byAdderly-2022-08-19-22-06-49.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows101607V2byAdderly-2022-08-19-22-07-32.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows101607V2byAdderly-2022-08-19-22-07-32.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows102-2022-11-05-17-44-58.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows102-2022-11-05-17-44-58.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows102-2022-11-05-17-45-18.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows102-2022-11-05-17-45-18.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10MinibyAdderly-2022-08-26-19-03-25.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10MinibyAdderly-2022-08-26-19-03-25.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10MinibyAdderly-2022-08-26-19-05-05.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10MinibyAdderly-2022-08-26-19-05-05.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10PE-2022-09-19-23-59-31.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10PE-2022-09-19-23-59-31.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x64-2022-10-15-15-57-49.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x64-2022-10-15-15-57-49.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x64-2022-10-15-15-58-15.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x64-2022-10-15-15-58-15.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x64-2022-10-15-19-45-20.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x64-2022-10-15-19-45-20.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x64-2022-10-15-19-45-52.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x64-2022-10-15-19-45-52.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x642-2023-01-16-14-58-45.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x642-2023-01-16-14-58-45.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x642-2023-01-16-15-11-53.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x642-2023-01-16-15-11-53.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x643-2023-03-03-00-23-25.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x643-2023-03-03-00-23-25.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows10x643-2023-03-03-00-30-29.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows10x643-2023-03-03-00-30-29.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows11byAdderly-2022-08-15-21-30-26.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows11byAdderly-2022-08-15-21-30-26.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows11byAdderly-2022-08-15-21-31-17.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows11byAdderly-2022-08-15-21-31-17.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows11MinibyAddrly-2022-08-22-01-15-14.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows11MinibyAddrly-2022-08-22-01-15-14.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows11MinibyAddrly-2022-08-22-01-22-08.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows11MinibyAddrly-2022-08-22-01-22-08.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7-2022-10-26-23-20-43.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7-2022-10-26-23-20-43.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7-2022-10-26-23-21-34.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7-2022-10-26-23-21-34.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7ByAdderly-2022-08-14-13-01-20.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7ByAdderly-2022-08-14-13-01-20.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7ByAdderly-2022-08-14-13-01-371.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7ByAdderly-2022-08-14-13-01-371.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7ByAdderly-2022-08-14-13-08-06.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7ByAdderly-2022-08-14-13-08-06.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7Lite2.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7Lite2.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7MiniV2byAdderly-2022-08-16-22-23-49.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7MiniV2byAdderly-2022-08-16-22-23-49.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7MiniV2byAdderly-2022-08-16-22-32-08.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7MiniV2byAdderly-2022-08-16-22-32-08.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-06-25-21-17-101.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-06-25-21-17-101.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-01-13-12-22.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-01-13-12-22.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-01-13-13-46.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-01-13-13-46.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-01-13-13-56.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-01-13-13-56.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-10-12-12-37.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-10-12-12-37.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-10-12-13-07.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-10-12-13-07.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-10-12-33-15.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-10-12-33-15.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows7x64-2022-10-10-12-33-29.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows7x64-2022-10-10-12-33-29.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0byAdderly-2022-08-15-18-01-03.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0byAdderly-2022-08-15-18-01-03.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0byAdderly-2022-08-15-18-03-11.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0byAdderly-2022-08-15-18-03-11.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0byAdderly-2022-08-15-18-03-52.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0byAdderly-2022-08-15-18-03-52.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0byAdderly-2022-08-15-18-05-29.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0byAdderly-2022-08-15-18-05-29.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0Lite-2022-08-12-20-58-10.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0Lite-2022-08-12-20-58-10.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0Lite-2022-08-12-21-00-09.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0Lite-2022-08-12-21-00-09.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0Lite-2022-08-12-21-00-36.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0Lite-2022-08-12-21-00-36.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.0Lite-2022-08-12-21-02-07.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.0Lite-2022-08-12-21-02-07.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1-2022-10-09-13-17-38.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1-2022-10-09-13-17-38.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1-2022-10-09-13-21-00.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1-2022-10-09-13-21-00.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1-2022-10-09-13-21-59.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1-2022-10-09-13-21-59.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1-2022-10-09-14-25-43.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1-2022-10-09-14-25-43.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1ByAdderly-2022-08-14-12-47-15.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1ByAdderly-2022-08-14-12-47-15.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1ByAdderly-2022-08-14-12-47-53.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1ByAdderly-2022-08-14-12-47-53.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1ByAdderly-2022-08-14-12-48-10.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1ByAdderly-2022-08-14-12-48-10.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1ByAdderly-2022-08-14-12-48-18.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1ByAdderly-2022-08-14-12-48-18.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1Mini-2022-08-14-22-41-00.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1Mini-2022-08-14-22-41-00.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1Mini-2022-08-14-22-41-25.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1Mini-2022-08-14-22-41-25.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.1Mini-2022-08-14-22-42-46.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.1Mini-2022-08-14-22-42-46.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-17-13.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-17-13.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-17-241.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-17-241.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-18-14.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-18-14.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-18-29.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-18-29.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-19-05.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-19-05.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-06-26-23-21-41.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-06-26-23-21-41.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/Windows8.x-2022-09-15-00-30-26.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\Windows8.x-2022-09-15-00-30-26.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsPEMicro.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsPEMicro.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsPEMini.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsPEMini.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsPEUltimate1.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsPEUltimate1.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsPEUltimate2.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsPEUltimate2.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsXP-2022-09-01-13-02-35.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsXP-2022-09-01-13-02-35.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsXPbyAdderly1.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsXPbyAdderly1.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsXPbyAdderly2.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsXPbyAdderly2.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/images/WindowsXPProfessional-2022-09-15-09-29-30.png
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\images\WindowsXPProfessional-2022-09-15-09-29-30.png
+Content Type: image/png
+
+Uri: https://sborkiadderly.tk/jquery.js
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\jquery.js
+Content Type: application/javascript
+
+Uri: https://sborkiadderly.tk/nicepage.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\nicepage.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/nicepage.js
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\nicepage.js
+Content Type: application/javascript
+
+Uri: https://sborkiadderly.tk/Windows-10-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-10-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-10-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-10-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-11-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-11-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-11-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-11-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-7-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-7-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-7-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-7-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-8-0-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-8-0-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-8-0-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-8-0-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-8-1-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-8-1-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-8-1-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-8-1-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-Lite-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Lite-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-Lite-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Lite-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-Lite-x32-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Lite-x32-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-Lite-x32-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Lite-x32-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-Mini-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Mini-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-Mini-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-Mini-сборки.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-PE-от-Аддерли.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-PE-от-Аддерли.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-PE-от-Аддерли.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-PE-от-Аддерли.html
+Content Type: text/html
+
+Uri: https://sborkiadderly.tk/Windows-XP-сборки.css
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-XP-сборки.css
+Content Type: text/css
+
+Uri: https://sborkiadderly.tk/Windows-XP-сборки.html
+File Name: C:\Downloaded Web Sites\sborkiadderly.tk\Windows-XP-сборки.html
+Content Type: text/html
+
